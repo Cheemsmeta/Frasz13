@@ -17,7 +17,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'Raizen Bot MD V13' //ur bot Name
-global.ownernumber = '237675551808' //ur owner number
+global.ownernumber = '22390633817' //ur owner number
 global.ownername = 'YUME' //ur owner name
 global.websitex = "https://www.youtube.com/@FraszHost"
 global.wagc = "https://chat.whatsapp.com/GFrGhFd83gzItxS7T7d3Ci"
