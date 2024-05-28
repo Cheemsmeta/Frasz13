@@ -17,18 +17,18 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'Raizen Bot MD V13' //ur bot Name
-global.ownernumber = '22871255034' //ur owner number
-global.ownername = 'Raizen' //ur owner name
+global.ownernumber = '237675551808' //ur owner number
+global.ownername = 'YUME' //ur owner name
 global.websitex = "https://www.youtube.com/@FraszHost"
 global.wagc = "https://chat.whatsapp.com/GFrGhFd83gzItxS7T7d3Ci"
 global.themeemoji = '❄️'
 global.wm = "Darki Bot Inc."
 global.botscript = 'https://github.com/Fraszz/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
-global.author = "❄️Raizen"
-global.creator = "22871255034@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["22871255034"] // Premium User
+global.author = "❄️YUme"
+global.creator = "237675551808@s.whatsapp.net"
+global.xprefix = '€'
+global.premium = ["237675551808"] // Premium User
 global.hituet = 0
 
 //bot sett
